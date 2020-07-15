@@ -1,0 +1,73 @@
+
+p{
+  text-align: center;
+}
+body{
+  text-align: center;
+  color: black;
+  font-size: 18px;
+
+}
+
+h3{
+  text-decoration:underline;
+  text-align: center;
+
+}
+.row-boxes{
+  height: 
+}
+.row-boxes{
+  height:;
+}
+.col-first{
+  background-color: crimson;
+  border: solid;
+  display;
+  height: 220px;
+  width:220px ;
+}
+
+.col-second{
+background-color: darkblue;
+border:5px dashed yellowgreen;
+display: inline-block;
+height: 220px;
+width: 220px;
+  }
+
+.col-Third{
+  background-color:lime;
+  border: solid purple;
+  display: inline-block;
+  height: 220px;
+  width: 220px;
+
+}
+.changeTitle{
+  color: blue;
+  text-decoration: underline;
+}
+.rowbtns {
+  background-color;
+  color: black;
+  font-size: ;
+}
+.col-changeBtn1{
+  background-color: grey;
+  color: black;
+}
+
+.col-changebtn2{
+  background-color:grey;
+  color: black;
+}
+.col-changeBtn3{
+  background-color: grey;
+  color: black;
+}
+.col-Change-All{
+  background-color: grey;
+  color: black;
+
+}
